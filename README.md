@@ -4,7 +4,6 @@
 > 開発メンバー
 - [影桜](https://github.com/kage-sakura)氏
 - [まめたろう](https://github.com/Mametaro-discord)氏
-- [yuina8686](https://github.com/yuina8686)氏
 - [とうちん](https://github.com/Nich87)
 
 **警告**

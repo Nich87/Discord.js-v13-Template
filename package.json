@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Nich87/Discord.js-v13-Template#readme",
   "dependencies": {
-    "discord.js": "^13.3.1",
+    "discord.js": "^14.0.0",
     "dotenv": "^10.0.0"
   }
 }
